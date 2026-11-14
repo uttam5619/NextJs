@@ -8,6 +8,9 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 
 <!-- END:nextjs-agent-rules -->
 
+## Comments
+While writing the business logig use the comments properly so the flow of business logic
+in the given function or class should remain clear to the developer or the person who is reading it.
 
 ## Skills
 
